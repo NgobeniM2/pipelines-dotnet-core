@@ -1,4 +1,4 @@
-|Initial Build|[![Build Status](https://dev.azure.com/NgobeniM2/Self%20School/_apis/build/status/NgobeniM2.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/NgobeniM2/Self%20School/_build/latest?definitionId=1?branchName=master)
+| Initial Build | [![Build Status](https://dev.azure.com/NgobeniM2/Self%20School/_apis/build/status/NgobeniM2.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/NgobeniM2/Self%20School/_build/latest?definitionId=1?branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
